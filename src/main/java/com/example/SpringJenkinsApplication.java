@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import jakarta.annotation.PostConstruct;
 
 
+
 @SpringBootApplication
 public class SpringJenkinsApplication {
 
